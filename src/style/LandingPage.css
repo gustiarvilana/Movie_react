@@ -1,0 +1,45 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/bg/bg3.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.tittle {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px gray;
+    letter-spacing: 4px;
+}
+
+.tranding {
+    height: auto;
+    background: url("../assets/bg/bg2.jpg");
+    background-size: cover;
+}
+
+.movieWrapper {}
+
+.cardImage {
+    height: auto;
+    margin: 5px;
+    background-color: white;
+    padding: 5px;
+}
+
+.card-images {
+    height: 500px;
+}
+
+.superhero {
+    height: auto;
+    background: url("../assets/bg/bg1.jpg");
+    background-size: cover;
+}
